@@ -1,0 +1,12 @@
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\ListaGenerica\bin\Release\ListaGenerica.exe.config
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\ListaGenerica\bin\Release\ListaGenerica.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\ListaGenerica\bin\Release\ListaGenerica.pdb
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\ListaGenerica\obj\Release\ListaGenerica.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\ListaGenerica\obj\Release\ListaGenerica.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\ListaGenerica\obj\Release\ListaGenerica.pdb
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\ListaGenerica\bin\Release\ListaGenerica.exe.config
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\ListaGenerica\bin\Release\ListaGenerica.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\ListaGenerica\bin\Release\ListaGenerica.pdb
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\ListaGenerica\obj\Release\ListaGenerica.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\ListaGenerica\obj\Release\ListaGenerica.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\ListaGenerica\obj\Release\ListaGenerica.pdb

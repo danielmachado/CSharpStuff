@@ -1,0 +1,12 @@
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\Lista\bin\Release\Lista.exe.config
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\Lista\bin\Release\Lista.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\Lista\bin\Release\Lista.pdb
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\Lista\obj\Release\Lista.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\Lista\obj\Release\Lista.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\POO\Lista\obj\Release\Lista.pdb
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\Lista\bin\Release\Lista.exe.config
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\Lista\bin\Release\Lista.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\Lista\bin\Release\Lista.pdb
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\Lista\obj\Release\Lista.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\Lista\obj\Release\Lista.exe
+C:\Users\Daniel\Dropbox\Master\POO\Practica\Semana1\09447043T\POO\Lista\obj\Release\Lista.pdb
